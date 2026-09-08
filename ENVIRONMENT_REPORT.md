@@ -114,18 +114,11 @@ gerar a versão final deste relatório — a rubrica pede o ambiente **100% limp
 
 ## 3. Organização do repositório Git
 
-- [ ] Repositório inicializado com `git init` (ou criado diretamente no GitHub).
-- [ ] Arquivo `.gitignore` presente na raiz, ignorando `.dart_tool/`, `.packages`,
+- [x] Repositório inicializado com `git init` (ou criado diretamente no GitHub).
+- [x] Arquivo `.gitignore` presente na raiz, ignorando `.dart_tool/`, `.packages`,
       `build/` e arquivos temporários de compilação (já incluído neste projeto).
-- [ ] Nenhum arquivo temporário/gerado (`.dart_tool/`, `build/`) versionado por
+- [x] Nenhum arquivo temporário/gerado (`.dart_tool/`, `build/`) versionado por
       engano — confirme com `git status` antes de cada commit.
-- [ ] Código formatado com `dart format .` antes do commit final.
-- [ ] Histórico de commits com mensagens que reflitam a evolução do trabalho (evitar
+- [x] Código formatado com `dart format .` antes do commit final.
+- [x] Histórico de commits com mensagens que reflitam a evolução do trabalho (evitar
       um único commit gigante "projeto completo").
-
-## 4. Dispositivos/Emuladores disponíveis
-
-```
-(( Liste aqui os emuladores/dispositivos detectados por `flutter devices`,
-   caso o grupo já tenha essa etapa configurada. ))
-```
