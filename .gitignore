@@ -1,0 +1,23 @@
+# Arquivos e diretórios gerados pelo toolchain Dart/Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Cobertura de testes
+coverage/
+
+# Logs
+*.log
+
+bin/oracleJdk-26/
