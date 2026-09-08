@@ -81,7 +81,9 @@ Conforme a Política Institucional de Uso de IA do Plano de Ensino 2026/2:
 - **Como foi utilizada:** apoio no brainstorming da modelagem de domínio (definição
   das classes, do mixin e da exceção customizada), geração de um scaffolding
   inicial de código seguindo os requisitos do enunciado, e sugestões de
-  refatoração/organização de pastas.
+  refatoração/organização de pastas, e apoio na configuração e resolução de
+  problemas do Git/GitHub (inicialização do repositório, ajuste do `.gitignore`
+  e remoção de arquivos que foram versionados por engano).
 - **O que o grupo fez a partir dai: Montagem e configuração do ambiente, execução de todos os testes, verificação dos resultados  identificação e reporte das falhas encontradas em execução, e validação de cada etapa antes de avançar.
 
 
